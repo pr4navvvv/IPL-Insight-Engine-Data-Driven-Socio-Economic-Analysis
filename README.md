@@ -9,10 +9,10 @@ With over half of IPL's ads tied to these industries, there is growing debate ar
 ![image](https://github.com/user-attachments/assets/ff67d0a9-2278-48cf-aff0-76f71854f672)
 
 # Dashboard
-<img width="1043" height="582" alt="image" src="https://github.com/user-attachments/assets/e15a4607-7deb-4bfc-a9a0-cf101aa7009b" />
-<img width="1045" height="654" alt="image" src="https://github.com/user-attachments/assets/8e5f44e5-5432-4240-b9f9-185eb9f805fe" />
-<img width="1045" height="647" alt="image" src="https://github.com/user-attachments/assets/b4cbd1df-484d-499c-9301-80141195c97b" />
-<img width="1049" height="667" alt="image" src="https://github.com/user-attachments/assets/6d7d9b6a-d677-4f79-b8dd-83f7186fbe9a" />
+<img width="1039" height="586" alt="image" src="https://github.com/user-attachments/assets/b8f0b0fa-4f84-4bbd-8913-b2167d38b748" />
+<img width="1044" height="653" alt="image" src="https://github.com/user-attachments/assets/57a4f7e6-c851-418d-a4ed-e719810895f5" />
+<img width="1042" height="638" alt="image" src="https://github.com/user-attachments/assets/1c4be32d-b6e6-4361-aafe-3986ce5ecb8b" />
+<img width="1039" height="660" alt="image" src="https://github.com/user-attachments/assets/ee07010e-7569-4f5f-9830-1d002d4d839a" />
 
 # Tech Stack
 Excel, Power BI, DAX Functions
