@@ -9,10 +9,10 @@ With over half of IPL's ads tied to these industries, there is growing debate ar
 ![image](https://github.com/user-attachments/assets/ff67d0a9-2278-48cf-aff0-76f71854f672)
 
 # Dashboard
-![Screenshot 2025-05-22 145001](https://github.com/user-attachments/assets/c7fed1b4-ccd3-42a9-8fe4-3f9e982fc9d8)
-![Screenshot 2025-05-22 145013](https://github.com/user-attachments/assets/d298c891-0060-466b-94cb-230179c4d5e6)
-![Screenshot 2025-05-22 145020](https://github.com/user-attachments/assets/32b93e83-5bcd-430f-8f8a-4bbd4f0db570)
-![Screenshot 2025-05-22 145026](https://github.com/user-attachments/assets/9347e011-39d6-4c93-baaa-e024a51ce115)
+<img width="1043" height="582" alt="image" src="https://github.com/user-attachments/assets/e15a4607-7deb-4bfc-a9a0-cf101aa7009b" />
+<img width="1045" height="654" alt="image" src="https://github.com/user-attachments/assets/8e5f44e5-5432-4240-b9f9-185eb9f805fe" />
+<img width="1045" height="647" alt="image" src="https://github.com/user-attachments/assets/b4cbd1df-484d-499c-9301-80141195c97b" />
+<img width="1049" height="667" alt="image" src="https://github.com/user-attachments/assets/6d7d9b6a-d677-4f79-b8dd-83f7186fbe9a" />
 
 # Tech Stack
 Excel, Power BI, DAX Functions
@@ -65,5 +65,4 @@ Excel, Power BI, DAX Functions
   * Replace gambling ads with educational content on financial literacy, including mutual funds, targeting ≥10 million viewers yearly.
 
 # Links
-[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://ishaa-23.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaa-abdul-63b079217/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-prakash-0749b5345/)
